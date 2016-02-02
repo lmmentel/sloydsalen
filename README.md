@@ -1,9 +1,9 @@
-# Raspebrry Pi / Arduino resources
+# Raspberry Pi / Arduino resources
 
-## Sortware
+## Software
 
 * [Fritzing](http://fritzing.org/home) great piece of software for board
-  protopyping and development
+  prototyping and development
 * [Instrumentino](https://github.com/yoelk/Instrumentino) an open-source
   modular graphical user interface framework for controlling Arduino based
   experimental instruments
